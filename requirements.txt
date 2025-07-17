@@ -1,0 +1,7 @@
+#requirements.txt
+crewai>=0.28.8
+crewai-tools
+python-dotenv
+
+#Add this if you plan to implement the actual Vertex AI tool
+google-cloud-aiplatform>=1.38.1
