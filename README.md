@@ -82,3 +82,4 @@ run_inference_on_footage(): Integrate your custom-trained machine learning model
 send_violation_report(): Update this function to make a real HTTP POST request to your central server's API endpoint, uploading the violation data and footage.
 
 Vertex AI Tools: Implement the functions to make actual API calls to the Google Cloud AI Platform using the google-cloud-aiplatform client library.
+
